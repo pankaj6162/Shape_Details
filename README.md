@@ -12,7 +12,11 @@ Welcome to the **Shape Game**, an interactive console-based Java application whe
 - 🛑 Option to exit the game anytime.
 
 ---
-
+## **Technologies Used** 🛠️
+- **Java**: Core programming language.
+- **OOP Concepts**:  Java concepts such as class, Object, Constructor, Inheritance, Polymorphism, Upcasting, Method Overriding, HAS-A Relationship, Interface
+- **Scanner API**: For user input handling.
+---
 ## **Demo** 🖥️
 
 Here's a quick look at the program in action:
@@ -38,8 +42,5 @@ Do you want to create another shape? (yes/no)
 == Game Ended! ==
 >
 ---
-## **Technologies Used** 🛠️
-- **Java**: Core programming language.
-- **OOP Concepts**:  Java concepts such as class, Object, Constructor, Inheritance, Polymorphism, Upcasting, Method Overriding, HAS-A Relationship, Interface
-- **Scanner API**: For user input handling.
+
 
